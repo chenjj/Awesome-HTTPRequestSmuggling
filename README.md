@@ -8,16 +8,18 @@
 - [Breaking the chains on HTTP Request Smuggler](https://portswigger.net/research/breaking-the-chains-on-http-request-smuggler) - By James Kettle
 - [h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext (h2c)](https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c) - By Jake Miller
 - [HTTP Desync Attacks with Python and AWS](https://medium.com/@emilefugulin/http-desync-attacks-with-python-and-aws-1ba07d2c860f) - By Emile Fugulin
+- [Security: HTTP Smuggling, Apache Traffic Server](https://regilero.github.io/english/security/2019/10/17/security_apache_traffic_server_http_smuggling/) - By Regileros
 - [HAProxy HTTP request smuggling (CVE-2019-18277)](https://nathandavison.com/blog/haproxy-http-request-smuggling) - By Nathan Davison
 - [Understanding the root cause of F5 Networks K52145254: TMUI RCE vulnerability CVE-2020-5902](https://research.nccgroup.com/2020/07/12/understanding-the-root-cause-of-f5-networks-k52145254-tmui-rce-vulnerability-cve-2020-5902/)
 - [Desync Mitigation Mode for Amazon AWS Application and Classic Load Balancers ](https://aws.amazon.com/about-aws/whats-new/2020/08/application-and-classic-load-balancers-adding-defense-in-depth-with-introduction-of-desync-mitigation-mode/)
 - [Protocol Layer Attack - HTTP Request Smuggling](https://paper.seebug.org/1049/) - [中文版本](https://paper.seebug.org/1048/)
 
-
 ## Talks
 - [DEF CON 24 - Hiding Wookiees in HTTP: HTTP smuggling](https://infocon.org/cons/DEF%20CON/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Regilero-Hiding-Wookiees-In-Http.pdf) - By regilero
 - [BH USA 2019 - HTTP Desync Attacks: Smashing into the Cell Next Door](https://i.blackhat.com/USA-19/Wednesday/us-19-Kettle-HTTP-Desync-Attacks-Smashing-Into-The-Cell-Next-Door.pdf) - By James Kettle
 - [BH USA 2020 - HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challenges](https://www.blackhat.com/us-20/briefings/schedule/#http-request-smuggling-in---new-variants-new-defenses-and-new-challenges-20019) - By Amit Klein
+- [BH USA 2017 - Web Cache Deception Attack](https://www.blackhat.com/docs/us-17/wednesday/us-17-Gil-Web-Cache-Deception-Attack.pdf) - By Omer Gil
+- [Practical Attacks Using HTTP Request Smuggling](https://drive.google.com/file/d/1iC0972G4meFPGTmqfs8g61qat7ZYLQgf/view) - By Evan Custodio at NahamCon
 
 ## Tools
 - [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler)
