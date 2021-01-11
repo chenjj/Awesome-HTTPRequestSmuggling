@@ -1,5 +1,5 @@
 # Awesome-HTTPRequestSmuggling [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
-> A curated list of awesome blogs and tools about HTTP request smuggling attacks.   Feel free to contribute!  🍻
+> A curated list of awesome research about HTTP request smuggling attacks.  Feel free to contribute!  🍻
 
 ## Blogs
 - [HTTP Request Smuggling](https://www.cgisecurity.com/lib/HTTP-Request-Smuggling.pdf) - The original research by Watchfire
