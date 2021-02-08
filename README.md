@@ -38,6 +38,7 @@
 - [Labs.data.gov](https://hackerone.com/reports/726773) - HTTP Request Smuggling on labs.data.gov. $750
 - [Ruby webrick](https://hackerone.com/reports/965267) - Potential HTTP Request Smuggling in ruby webrick. $500
 - [Cloudflare fixed an HTTP/2 smuggling vulnerability](https://lab.wallarm.com/cloudflare-fixed-an-http-2-smuggling-vulnerability/) - Cloudflare applies weak validation on HTTP/2 headers. $1000
+- [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) - By regilero
 
 ## Other related attacks
 - [Host-of-Troubles attacks](https://hostoftroubles.com) - Multiple Host header ambiguity to enable cache poisoning and firewall bypass
