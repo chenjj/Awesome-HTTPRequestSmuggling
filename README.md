@@ -28,6 +28,7 @@
 - [regilero/HTTPWookiee](https://github.com/regilero/HTTPWookiee) - An HTTP server and proxy stress tool (respect of RFC, HTTP Smuggling issues, etc)
 - [BishopFox/h2csmuggler](https://github.com/BishopFox/h2csmuggler) - HTTP Request Smuggling over HTTP/2 Cleartext (h2c)
 - [aws/http-desync-guardian](https://github.com/aws/http-desync-guardian) - Analyze HTTP requests to minimize risks of HTTP Desync attacks
+- [neex/http2smugl](https://github.com/neex/http2smugl) - detects HTTP Request Smuggling that arise during HTTP/2 -> HTTP/1.1 conversion
 
 ## Bug reports and bounties
 - [Paypal.com](https://hackerone.com/reports/488147) - Stored XSS on paypal.com/signin via cache poisoning. $18,900
