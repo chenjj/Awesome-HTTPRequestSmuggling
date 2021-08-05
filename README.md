@@ -20,7 +20,8 @@
 - [BH USA 2020 - HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challenges](https://www.blackhat.com/us-20/briefings/schedule/#http-request-smuggling-in---new-variants-new-defenses-and-new-challenges-20019) - By Amit Klein
 - [BH USA 2017 - Web Cache Deception Attack](https://www.blackhat.com/docs/us-17/wednesday/us-17-Gil-Web-Cache-Deception-Attack.pdf) - By Omer Gil
 - [Practical Attacks Using HTTP Request Smuggling](https://drive.google.com/file/d/1iC0972G4meFPGTmqfs8g61qat7ZYLQgf/view) - By Evan Custodio at NahamCon
-- [HTTP Request Smuggling via higher HTTP versions](https://www.slideshare.net/neexemil/http-request-smuggling-via-higher-http-versions) - PHDays2021
+- [HTTP Request Smuggling via higher HTTP versions](https://www.slideshare.net/neexemil/http-request-smuggling-via-higher-http-versions) - By Emil Lerner at PHDays2021
+- [HTTP/2: The Sequel is Always Worse](https://www.blackhat.com/us-21/briefings/schedule/#http-the-sequel-is-always-worse-22668) - By James Kettle at BHUSA2021
 
 ## Tools
 - [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler)
