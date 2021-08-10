@@ -22,6 +22,7 @@
 - [Practical Attacks Using HTTP Request Smuggling](https://drive.google.com/file/d/1iC0972G4meFPGTmqfs8g61qat7ZYLQgf/view) - By Evan Custodio at NahamCon
 - [HTTP Request Smuggling via higher HTTP versions](https://www.slideshare.net/neexemil/http-request-smuggling-via-higher-http-versions) - By Emil Lerner at PHDays2021
 - [HTTP/2: The Sequel is Always Worse](https://www.blackhat.com/us-21/briefings/schedule/#http-the-sequel-is-always-worse-22668) - By James Kettle at BHUSA2021
+- [Response Smuggling: Pwning HTTP 1 1 Connections](https://drive.google.com/file/d/1sbcq-f670wbnARIlJcSA_wGAWqUNcI5I/view) - By Martin Doyhenard at DEF CON 29
 
 ## Tools
 - [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler)
