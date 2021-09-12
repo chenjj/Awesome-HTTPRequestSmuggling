@@ -13,6 +13,7 @@
 - [Understanding the root cause of F5 Networks K52145254: TMUI RCE vulnerability CVE-2020-5902](https://research.nccgroup.com/2020/07/12/understanding-the-root-cause-of-f5-networks-k52145254-tmui-rce-vulnerability-cve-2020-5902/)
 - [Desync Mitigation Mode for Amazon AWS Application and Classic Load Balancers ](https://aws.amazon.com/about-aws/whats-new/2020/08/application-and-classic-load-balancers-adding-defense-in-depth-with-introduction-of-desync-mitigation-mode/)
 - [Protocol Layer Attack - HTTP Request Smuggling](https://paper.seebug.org/1049/) - [中文版本](https://paper.seebug.org/1048/)
+- [Integer Overflow Enables HTTP Smuggling in HAProxy](https://jfrog.com/blog/critical-vulnerability-in-haproxy-cve-2021-40346-integer-overflow-enables-http-smuggling/)
 
 ## Talks
 - [DEF CON 24 - Hiding Wookiees in HTTP: HTTP smuggling](https://infocon.org/cons/DEF%20CON/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Regilero-Hiding-Wookiees-In-Http.pdf) - By regilero
