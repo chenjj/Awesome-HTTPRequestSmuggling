@@ -16,6 +16,7 @@
 - [Integer Overflow Enables HTTP Smuggling in HAProxy](https://jfrog.com/blog/critical-vulnerability-in-haproxy-cve-2021-40346-integer-overflow-enables-http-smuggling/)
 - [HTTP-Request-Smuggling slides](https://docs.google.com/presentation/d/1DV-VYkoEsjFsePPCmzjeYjMxSbJ9PUH5EIN2ealhr5I/edit#slide=id.gc72dc9a11a_1_252) - A collection of HTTP-Request-Smuggling mutations
 - [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
+- [Empirical Study of HTTP Request Smuggling in Open-Source Servers and Proxies](http://kth.diva-portal.org/smash/get/diva2:1596031/FULLTEXT01.pdf)
 
 ## Talks
 - [DEF CON 24 - Hiding Wookiees in HTTP: HTTP smuggling](https://infocon.org/cons/DEF%20CON/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Regilero-Hiding-Wookiees-In-Http.pdf) - By regilero
