@@ -17,14 +17,13 @@
 - [HTTP-Request-Smuggling slides](https://docs.google.com/presentation/d/1DV-VYkoEsjFsePPCmzjeYjMxSbJ9PUH5EIN2ealhr5I/edit#slide=id.gc72dc9a11a_1_252) - A collection of HTTP-Request-Smuggling mutations
 - [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
 - [Empirical Study of HTTP Request Smuggling in Open-Source Servers and Proxies](http://kth.diva-portal.org/smash/get/diva2:1596031/FULLTEXT01.pdf)
-- [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond](https://www.intruder.io/research/practical-http-header-smuggling)
 
 ## Talks
 - [DEF CON 24 - Hiding Wookiees in HTTP: HTTP smuggling](https://infocon.org/cons/DEF%20CON/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEF%20CON%2024%20-%20Regilero-Hiding-Wookiees-In-Http.pdf) - By regilero
 - [BH USA 2019 - HTTP Desync Attacks: Smashing into the Cell Next Door](https://i.blackhat.com/USA-19/Wednesday/us-19-Kettle-HTTP-Desync-Attacks-Smashing-Into-The-Cell-Next-Door.pdf) - By James Kettle
 - [BH USA 2020 - HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challenges](https://www.blackhat.com/us-20/briefings/schedule/#http-request-smuggling-in---new-variants-new-defenses-and-new-challenges-20019) - By Amit Klein
 - [BH USA 2017 - Web Cache Deception Attack](https://www.blackhat.com/docs/us-17/wednesday/us-17-Gil-Web-Cache-Deception-Attack.pdf) - By Omer Gil
-- [BH EU 2021 - Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond](https://www.blackhat.com/eu-21/briefings/schedule/#practical-http-header-smuggling-sneaking-past-reverse-proxies-to-attack-aws-and-beyond-24363)
+- [BH EU 2021 - Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond](https://www.blackhat.com/eu-21/briefings/schedule/#practical-http-header-smuggling-sneaking-past-reverse-proxies-to-attack-aws-and-beyond-24363) - By Daniel Thatcher
 - [Practical Attacks Using HTTP Request Smuggling](https://drive.google.com/file/d/1iC0972G4meFPGTmqfs8g61qat7ZYLQgf/view) - By Evan Custodio at NahamCon
 - [HTTP Request Smuggling via higher HTTP versions](https://www.slideshare.net/neexemil/http-request-smuggling-via-higher-http-versions) - By Emil Lerner at PHDays2021
 - [HTTP/2: The Sequel is Always Worse](https://www.blackhat.com/us-21/briefings/schedule/#http-the-sequel-is-always-worse-22668) - By James Kettle at BHUSA2021
